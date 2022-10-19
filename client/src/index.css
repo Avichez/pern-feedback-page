@@ -1,0 +1,13 @@
+@font-face {
+    font-family: "ApercuArabic";
+    src: url(./assets/fonts/ApercuArabicPro-Regular.woff) format("woff"),
+        url(./assets/fonts/ApercuArabicPro-Regular.woff2) format("woff2");
+    font-weight: 400;
+}
+
+body {
+    font-family: "ApercuArabic", "Roboto", "Oxygen", "Ubuntu", "Cantarell", "Fira Sans",
+        "Droid Sans", "Helvetica Neue", sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
